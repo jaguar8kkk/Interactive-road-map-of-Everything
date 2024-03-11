@@ -1,6 +1,8 @@
 # Multi-user interactive road map of Everything
 https://github.com/jaguar8kkk/Road-map-of-Everything/blob/main/Road%20map%20of%20Everything.png
 
+The idea seems to be unfeasible due to the fact that too many people can propose their own algorithms for the same purpose. That is, hundreds of algorithms can arrive at one target, and I don’t know what to do with it...
+
 I plan to create a platform to create one big roadmap for everything users can come up with.
 
 It is necessary to establish interaction between users and different devices with a fractal-like graph, which is processed on the server - that is, it is interactive. Users can zoom in, zoom out, search for fractal points (which are signed) in the search bar, like and dislike these Goals, Editable Algorithms and Branches of Editable Algorithms, designate themselves, as a user, competent for a given point or even for a given line (Editable Algorithm ) or fractal branches, filter items by the number of likes and, perhaps, by some other parameters; Add points of editable algorithms, lines (Editable algorithms), hiddenly join points of an edited algorithm, display points, lines or even branches in your organizer (calendar), etc., etc...
