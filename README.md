@@ -1,4 +1,4 @@
-# Road-map-of-Everything
+# Interactive road map of Everything
 https://github.com/jaguar8kkk/Road-map-of-Everything/blob/main/Road%20map%20of%20Everything.png
 
 I plan to create a platform to create one big roadmap for everything users can come up with.
