@@ -1,7 +1,7 @@
 # Multi-user interactive road map of Everything
 https://github.com/jaguar8kkk/Road-map-of-Everything/blob/main/Road%20map%20of%20Everything.png
 
-The idea seems to be unfeasible due to the fact that too many people can propose their own algorithms for the same purpose. That is, hundreds of algorithms can arrive at one target, and I don’t know what to do with it...
+The idea seems to be unfeasible due to the fact that too many people can propose their own algorithms for the same purpose. That is, hundreds of algorithms can arrive at one target, and I don’t know what to do with it... # Do you have experience working with hierarchical databases and visualizing this data through graphs? I am urgently looking for a specialist.
 
 I plan to create a platform to create one big roadmap for everything users can come up with.
 
